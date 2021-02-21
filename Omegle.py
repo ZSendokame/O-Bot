@@ -1,14 +1,10 @@
-from pynput.mouse import Button, Controller
 import keyboard as kb
 import time
 
-
-mouse = Controller()
-
-
-def Message():
-    mouse.position = 387, 736
-    mouse.click(Button.left)
+https://github.com/ZSendokame/O-Bot
+    
+def Message():https://github.com/ZSendokame/O-Bot
+        
     kb.press_and_release('ctrl+v')
     kb.press_and_release('enter')
 
