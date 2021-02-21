@@ -1,9 +1,8 @@
 import keyboard as kb
 import time
 
-https://github.com/ZSendokame/O-Bot
     
-def Message():https://github.com/ZSendokame/O-Bot
+def Message():
         
     kb.press_and_release('ctrl+v')
     kb.press_and_release('enter')
