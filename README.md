@@ -8,7 +8,7 @@ Spam Bot for Omegle
 ```
 git clone github.com/ZSendokame/O-Bot
 
-cd O-Bot-main
+cd O-Bot
 
 python Omegle.py
 
