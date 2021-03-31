@@ -5,7 +5,7 @@ import time
 
 
 def Message():
-    kb.press_and_release('ctrl+v')
+    kb.write('message')
     kb.press_and_release('enter')
 
     print('Message Send')
